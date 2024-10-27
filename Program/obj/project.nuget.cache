@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "U/Kgxp4KQVM1GJ1tJOvcmiOadFQNC/7Dai2x7TF+sLgFWmjWa5X3VZNVVCSER37S6tjuFPqcNxJWfBY1vyp/HA==",
+  "success": true,
+  "projectFilePath": "c:\\IT\\Учеба\\GeekBrains\\CA\\Program\\Program.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\allza\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\allza\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\allza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\allza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
